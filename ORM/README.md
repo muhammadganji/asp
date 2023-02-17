@@ -18,7 +18,7 @@
 </details>
 
 
-![تصویر اجرای دستور](page-2.jpg) <br/> *تصویر نمونه اجرای دستور فراخوانی از DataBaseFirst .*
+![تصویر اجرای دستور](https://github.com/lpln25/asp/blob/main/ORM/Page-2.jpg) <br/> *تصویر نمونه اجرای دستور فراخوانی از DataBaseFirst .*
 
 <!-- استخراج-مدل -->
 ## استخراج مدل
