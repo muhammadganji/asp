@@ -18,7 +18,7 @@
 </details>
 
 
-![تصویر دیتابیس و ارتباطات بین جداول](Page-3.jpg) <br/> *نمونه دیتابیس پیاده سازی شده با `Entity FrameworkeCore`*
+![تصویر دیتابیس و ارتباطات بین جداول](https://github.com/lpln25/asp/blob/main/ORM/Relation/page-3.JPG) <br/> *نمونه دیتابیس پیاده سازی شده با `Entity FrameworkeCore`*
 
 <!-- موجودیت-ها -->
 ## موجودیت-ها
