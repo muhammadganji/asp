@@ -19,8 +19,9 @@
 </details>
 
 
-![تصویر دیتابیس و جداول](Page-5.jpg) <br/> *نمونه دیتابیس پیاده سازی شده با `EF Core Value Conversion`*
+![تصویر دیتابیس و جداول](https://github.com/lpln25/asp/blob/main/ORM/Value%20Conversions/page-5.jpg) <br/> *نمونه دیتابیس پیاده سازی شده با `EF Core Value Conversion`*
 
+<br/>
 
 
 <!-- موجودیت-ها -->
