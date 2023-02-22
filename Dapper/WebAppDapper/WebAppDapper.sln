@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDapper", "WebAppDapper\WebAppDapper.csproj", "{108A4DE5-5FA9-42C9-A329-E5D24D78C13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{3F62B9F3-374D-4666-BFBB-85005022623B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108A4DE5-5FA9-42C9-A329-E5D24D78C13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108A4DE5-5FA9-42C9-A329-E5D24D78C13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108A4DE5-5FA9-42C9-A329-E5D24D78C13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108A4DE5-5FA9-42C9-A329-E5D24D78C13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F62B9F3-374D-4666-BFBB-85005022623B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F62B9F3-374D-4666-BFBB-85005022623B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F62B9F3-374D-4666-BFBB-85005022623B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F62B9F3-374D-4666-BFBB-85005022623B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88AD70D9-74FA-4E4F-A969-36512697702C}
+	EndGlobalSection
+EndGlobal
