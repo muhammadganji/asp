@@ -17,7 +17,7 @@
         <a href="#مقدمه">مقدمه</a>
     </li>
     <li>
-      <a href="#دوم">دوم</a>   
+      <a href="#دستورات-پایه">دستورات پایه</a>   
     </li>
     <li>
       <a href="#نکات">نکات</a>
@@ -26,7 +26,7 @@
 </details>
 
 
-![تصویر برنامه](https://github.com/lpln25/asp/blob/main/Dapper/page-6.jpg) <br/> *کپشن*
+![تصویر برنامه](https://github.com/lpln25/asp/blob/main/Dapper/page-6.jpg) <br/> *نمایی از اجرای برنامه ساخته شده با `Dapper`*
 
 <br/>
 
