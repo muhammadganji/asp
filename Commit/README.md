@@ -1,8 +1,4 @@
-<style>
-*{
-    direction: rtl
-}
-</style>
+
 
 ## چگونه Commit Messageهای خوب بنویسیم
 
